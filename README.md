@@ -1,4 +1,4 @@
--      Hi, 👋its Chethan!
+-      #Hello, 👋its Chethan!
 - 👀 I’m interested in Software development
 - 👨‍💻 I'm currently working on developing coding skills
 - 🌱 I’m currently learning Datastructures & Algorithms
