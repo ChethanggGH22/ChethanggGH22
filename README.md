@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @ChethanggGH22
+-      Hi, 👋its Chethan!
 - 👀 I’m interested in Software development
+- 👨‍💻 I'm currently working on developing coding skills
 - 🌱 I’m currently learning Datastructures & Algorithms
 - 💞️ I’m looking to collaborate on opensource projects
+- 🧑🏻‍🤝‍🧑🏼I'am looking to collaborate on Github
 - 📫 How to reach me ggchethan6@gmail.com
 
 <!---
